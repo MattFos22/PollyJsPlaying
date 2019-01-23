@@ -1,0 +1,19 @@
+{
+  "name": "test2",
+  "version": "0.1.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@pollyjs/adapter-node-http": "^1.4.2",
+    "@pollyjs/core": "^1.4.2",
+    "@pollyjs/persister-fs": "^1.4.2",
+    "jest": "^23.6.0",
+    "setup-polly-jest": "^0.5.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
