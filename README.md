@@ -1,4 +1,4 @@
-##To set this thing up
+## To set this thing up
 
 - npm install --save-dev jest
 - npm install @pollyjs/core -D
